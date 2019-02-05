@@ -12,7 +12,14 @@ Wdym? *box liquifies and reforms as a sheet with more runes, talking about the r
 Explains
 Ok I know where we need to go follow me
 Choose follow or don't
-1: 
+1: Follow him to the keeper of the library
 2: I'm not getting involved in this. Although. This thing seems pretty expensive, yeah? I bet I could get a good price. *runs*
 Get back here you brat!!
 turns corner "I'll take that" bird creature stabs you and takes the thing
+
+Keeper = elemental
+Who requests my presence?
+I am Gyorn Al O'Mancer, Keeper. I have been studying an ancient cube, trying to open it with a combination of metalurgy and my own talents, and this human picked it up and it opened for them
+Hmph. So you are the one.
+The one?
+I have seen much in the flames.
